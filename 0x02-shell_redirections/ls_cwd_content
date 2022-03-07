@@ -1,0 +1,40 @@
+total 148
+drwxr-xr-x 2 root root 4096 Mar  7 14:27 .
+drwxr-xr-x 5 root root 4096 Mar  7 04:00 ..
+-rwxr--r-- 1 root root   32 Mar  7 12:20 0-hello_world
+-rwxr--r-- 1 root root   32 Mar  7 13:06 100-empty_casks
+-rwxr--r-- 1 root root   32 Mar  7 13:07 101-gifs
+-rwxr--r-- 1 root root   32 Mar  7 13:07 102-acrostic
+-rwxr--r-- 1 root root   32 Mar  7 13:07 103-the_biggest_fan
+-rwxr--r-- 1 root root   32 Mar  7 13:00 10-no_more_js
+-rwxr--r-- 1 root root   32 Mar  7 13:01 11-directories
+-rwxr--r-- 1 root root   32 Mar  7 13:01 12-newest_files
+-rwxr--r-- 1 root root   32 Mar  7 13:01 13-unique
+-rwxr--r-- 1 root root   32 Mar  7 13:02 14-findthatword
+-rwxr--r-- 1 root root   32 Mar  7 13:02 15-countthatword
+-rwxr--r-- 1 root root   32 Mar  7 13:02 16-whatsnext
+-rwxr--r-- 1 root root   32 Mar  7 13:03 17-hidethisword
+-rwxr--r-- 1 root root   32 Mar  7 13:03 18-letteronly
+-rwxr--r-- 1 root root   32 Mar  7 13:03 19-AZ
+-rwxr--r-- 1 root root   28 Mar  7 12:50 1-confused_smiley
+-rwxr--r-- 1 root root   20 Mar  7 12:42 1-confused_smiley~
+-rwxr--r-- 1 root root   32 Mar  7 13:04 20-hiago
+-rwxr--r-- 1 root root   32 Mar  7 13:06 21-reverse
+-rwxr--r-- 1 root root   32 Mar  7 13:06 22-users_and_homes
+-rwxr--r-- 1 root root   28 Mar  7 13:10 2-hellofile
+-rwxr--r-- 1 root root   32 Mar  7 12:58 2-hellofile~
+-rwxr--r-- 1 root root   39 Mar  7 13:36 3-twofiles
+-rwxr--r-- 1 root root   29 Mar  7 13:40 4-lastlines
+-rwxr--r-- 1 root root   35 Mar  7 13:47 5-firstlines
+-rwxr--r-- 1 root root   36 Mar  7 14:09 6-third_line
+-rwxr--r-- 1 root root   78 Mar  7 14:22 7-file
+-rwxr--r-- 1 root root   36 Mar  7 14:26 8-cwd_state
+-rwxr--r-- 1 root root   32 Mar  7 13:00 9-duplicate_last_line
+-rw-r--r-- 1 root root   38 Mar  7 14:17 \*\'Best
+-rw-r--r-- 1 root root   12 Mar  7 14:23 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root  796 Mar  7 14:01 #est#
+lrwxrwxrwx 1 root root   22 Mar  7 14:01 .#est -> root@af3ee07372eb.8025
+-rw-r--r-- 1 root root  799 Mar  7 14:05 iacta
+-rw-r--r-- 1 root root  800 Mar  7 13:59 iacta~
+-rw-r--r-- 1 root root    0 Mar  7 14:27 ls_cwd_content
+-rw-r--r-- 1 root root   70 Mar  7 04:09 README.md
